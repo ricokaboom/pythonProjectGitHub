@@ -1,5 +1,8 @@
 import random
-print("Bye World!!")
+
+for i in range(15):
+    print("Hello", i)
+
 tema = int(input('give any number 0-9 to ask our AI, is it the number: '))
 n_sensor = 15
 
